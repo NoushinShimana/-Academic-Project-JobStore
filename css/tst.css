@@ -1,0 +1,34 @@
+
+.main-header .navbar {
+  overflow: hidden;
+  background-color: #7B241C  ;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom: 1.5px solid white;
+ 
+
+}
+
+.main-header .navbar li a{
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: 15px;
+  border:4px solid  #7B241C;
+  color:white;
+ top: 0;
+}
+
+.main-header .navbar li a:hover {
+  background:#5C1711 ;
+  color: white;
+  
+ 
+
+}
+
+
